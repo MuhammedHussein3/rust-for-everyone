@@ -1,6 +1,6 @@
 # LeetCode - Most Common Word
 
-This repository contains my solution for the [LeetCode problem "Most Common Word"](https://leetcode.com/problems/most-common-word/).
+This repository contains my solution for the [LeetCode problem "Most Common Word"](https://leetcode.com/problems/most-common-word/submissions/1619202660/).
 
 ## Problem Description
 
